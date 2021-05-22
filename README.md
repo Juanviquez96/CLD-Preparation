@@ -1,3 +1,2 @@
-# hello-world
-Testing GitHub
-Testing new branches option. This line was added after creating a branch and editing the readme file.
+# CLD Preparation
+Solution of excercises assigned in the CLD preparation course.

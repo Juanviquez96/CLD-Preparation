@@ -1,0 +1,8 @@
+Under Body Wash,5,1
+Bug Remover,5,1
+Pre-Soak,5,2
+High Pressure Wash,5,2
+Low Pressure Wax,5,2
+Spot Free Rinse,5,2
+Tire Shine Foam,5,3
+Air Dry,5,3
